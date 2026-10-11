@@ -1,0 +1,22 @@
+CALL 4: EXISTING LOAN / EMI REDUCTION
+Platform: Retell AI | Agent: Priya (Female) | Customer: Bhoomija | Language: English
+
+RESULT
+Passed: transfer-specialist message, no eligibility questions after it, call ended
+
+TRANSCRIPT
+agent: Hello, may I speak with Bhoomija, please?
+user: Yes. Speaking.
+agent: Hi Bhoomija, this is Priya from Home Credit. Do you have two minutes to talk?
+user: Yes. Go ahead.
+agent: As a valued Home Credit customer, you've been shortlisted for a special new Loan Against Property offer of up to seventy-five lakh rupees. May I ask a few quick questions to see if
+user: Okay. Sure.
+agent: it suits you?
+agent: What type of property is it: a house or flat, a shop or office, or an
+user: It is
+agent: industrial unit?
+user: a house but I already have a loan on this property, and I want to reduce my EMI
+agent: Thank you for letting me know. Since you already have an existing loan on this property, a specialist for loan transfer will contact you shortly to help you with that. Thank you for your time, Bhoomija.
+user: Yeah. Thank you.
+agent: You're welcome, Bhoomija. Have a good
+agent: day.

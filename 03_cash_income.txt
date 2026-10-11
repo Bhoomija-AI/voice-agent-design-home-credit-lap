@@ -1,0 +1,30 @@
+CALL 3: CASH INCOME
+Platform: Retell AI | Agent: Priya (Female) | Customer: Bhoomija | Language: English
+
+RESULT
+Passed: disqualified as soon as income was cash; market value and tenure were not asked; call ended
+
+TRANSCRIPT
+agent: Hello, may I speak with Bhoomija, please?
+user: Yes. Speaking.
+agent: Hi Bhoomija, this is Priya from Home Credit. Do you have two minutes to talk?
+user: Yes.
+user: Go ahead.
+agent: As a valued Home Credit customer, you've been shortlisted for a Loan Against Property offer of up to seventy-five lakh rupees. It’s a new loan against your property, and I’ll ask a few quick questions to see if it suits you. Is that alright?
+user: Sure.
+agent: What type of property is it: a house or flat, a shop or office, or an industrial unit?
+user: It is a residential house.
+agent: Is the property solely in your name, or jointly owned with family
+user: It is
+agent: or a partner?
+user: only in my name.
+agent: Do you have the original property documents available for verification?
+user: Yes. I have the originals.
+agent: How much loan amount are you looking for?
+user: Thirty lakh rupees
+agent: Are you salaried or self-employed, and does your income come into your bank account or
+user: I done
+agent: in cash?
+user: my own business, and I get paid in cash.
+agent: Thank you for sharing that, Bhoomija. Unfortunately, based on this, you don't meet the criteria for this specific offer at this time.
+agent: I appreciate your time. Have a good day.

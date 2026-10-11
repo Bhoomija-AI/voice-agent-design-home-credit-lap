@@ -1,0 +1,16 @@
+CALL 2: AGRICULTURAL PROPERTY
+Platform: Retell AI | Agent: Priya (Female) | Customer: Bhoomija | Language: English
+
+RESULT
+Passed: disqualified at the property-type answer, call ended by the agent
+
+TRANSCRIPT
+agent: Hello, may I speak with Bhoomija, please?
+user: Yes. Speaking.
+agent: Hi Bhoomija, this is Priya from Home Credit. Do you have two minutes to talk?
+user: Yes.
+user: Go ahead.
+agent: As a valued Home Credit customer, you’ve been shortlisted for a Loan Against Property offer of up to seventy-five lakh rupees. It’s a new loan against your property, and I’ll ask a few quick questions to see if it suits you. What type of property is it?
+user: It is a agricultural land.
+agent: Thank you for sharing that, Bhoomija. Unfortunately, since the property is agricultural, you don't meet the criteria for this specific offer at this time. I appreciate your time. Have a good
+agent: day.

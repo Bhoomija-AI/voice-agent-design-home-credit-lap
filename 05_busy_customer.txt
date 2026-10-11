@@ -1,0 +1,19 @@
+CALL 5: BUSY CUSTOMER
+Platform: Retell AI | Agent: Priya (Female) | Customer: Bhoomija | Language: English
+
+RESULT
+Passed: no pitch, asked callback time, resolved 'tomorrow' to Monday (call was on Sunday), call ended
+
+TRANSCRIPT
+agent: Hello, may I speak with Bhoomija, please?
+user: Yes. Speaking.
+agent: Hi Bhoomija, this is Priya from Home Credit. Do you have two minutes to talk?
+user: I'm in a meeting right now.
+agent: Certainly, I understand. What would be a convenient time for us to call
+user: Tomorrow
+agent: you back?
+user: evening around five.
+agent: Sure, we’ll call you on Monday around five in the evening. Thank you, Bhoomija.
+user: Thank you.
+agent: You’re welcome. Have a good
+agent: day.

@@ -1,0 +1,39 @@
+CALL 1: HAPPY PATH (eligible customer)
+Platform: Retell AI | Agent: Priya (Female) | Customer: Bhoomija | Language: English
+
+SUMMARY
+The agent pre-qualified Bhoomija for a Loan Against Property. She reported a solely owned residential house with original documents, requested Rs 50 lakh against an approximately Rs 1 crore property, is salaried with bank-credited income, and prefers a 10-year term; a senior loan expert will follow up.
+
+RESULT
+Qualified. Senior loan expert handoff. Agent ended the call itself (end_call tool, disconnection reason: agent_hangup). User sentiment: positive. End-to-end latency: 747 ms.
+
+TRANSCRIPT
+agent: Hello, may I speak with Bhoomija, please?
+user: Yes. Speaking.
+agent: Hi Bhoomija, this is Priya from Home Credit. Do you have two minutes to talk?
+user: Yes. Go ahead.
+agent: As a valued Home Credit customer, you've been shortlisted for a Loan Against Property offer of up to seventy-five lakh rupees. It's a new loan against your property, and I'll ask a few quick questions to see if it suits you. Is that alright?
+user: Okay.
+user: Sure.
+agent: What type of property is this: a house or flat, a shop or office, or an industrial unit?
+user: A residential house.
+agent: And is the property solely in your name, or jointly owned with family or a partner?
+user: In my name only.
+agent: Do you have the original property documents available for verification?
+user: Yes.
+agent: How much loan amount are you looking for?
+user: Hello. Fifty lakhs?
+agent: Fifty lakh rupees, noted. Are you salaried or self-employed, and does your income come into your bank account or in cash?
+user: Salaried. And my salary comes into my bank account.
+agent: Approximately what is the current market value of the property?
+user: About one crore rupees,
+agent: Over how many years would you like to repay the loan?
+user: Ten years,
+agent: Thank you, Bhoomija. Based on this, you meet the preliminary criteria. A senior loan expert will call you shortly with the exact interest rates and next steps. Please keep the original property documents ready. Do you have any quick question?
+user: Oh, that is all.
+agent: Thank
+user: Thank you.
+agent: You're welcome, Bhoomija. Thank you for
+user: Thank you,
+agent: You're welcome, Bhoomija. Thank you for your time, and have
+agent: a good day.
