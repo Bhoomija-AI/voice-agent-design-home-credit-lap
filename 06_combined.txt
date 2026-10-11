@@ -1,0 +1,43 @@
+CALL 6: COMBINED (OUT-OF-ORDER ANSWERS, LOAN ABOVE 75 LAKH, CORRECTION)
+Platform: Retell AI | Agent: Priya (Female) | Customer: Bhoomija | Language: English
+
+RESULT
+Passed: skipped questions already answered, explained the 75 lakh limit, accepted the correction to 12 years, handed off only after all 7 items
+
+TRANSCRIPT
+agent: Hello, may I speak with Bhoomija, please?
+user: Yes. Speaking.
+agent: Hi Bhoomija, this is Priya from Home Credit. Do you have two minutes to talk?
+user: Yes. Go ahead.
+agent: As a valued Home Credit customer, you've been shortlisted for a Loan Against Property offer of up to seventy-five lakh rupees. It's a new loan against your property, and I'll ask a few quick questions to see if it suits you. Is that alright?
+user: Sure.
+agent: What type of property is it: a house or flat, a shop or office, or an industrial unit?
+user: It is a residential house jointly owned with my wife and worth about one crore twenty lakh rupees.
+agent: Do you have the original property documents available for verification?
+user: Yes. I have original documents at
+agent: How much loan amount are you looking for?
+user: I'm looking for ninety lakh rupees.
+agent: This offer is available for up to seventy-five lakh rupees. Would you like to proceed with the maximum eligible amount of seventy-five lakh rupees?
+user: Okay. Seventy five lakh is fine.
+agent: Are you salaried or self-employed, and does your income come into your bank account or in
+user: I
+agent: cash?
+user: am sorry. And my salary comes into my bank account.
+agent: Are you salaried or self-employed?
+user: I'm salaried.
+agent: Over how many years would you like to repay the loan?
+user: Ten years,
+user: actually made that twelve years.
+agent: Thank you, Bhoomija.
+user: (unintelligible audio)
+agent: Sorry, I didn’t catch that. Could you say it once more?
+user: In use, actually, make that twelve years.
+agent: Thank you, Bhoomija. So that's a residential property, jointly owned, with original documents available, a loan requirement of seventy-five lakh rupees over twelve years. Based on this, you've met the preliminary criteria. A senior loan expert will call you shortly with the exact interest rates and next steps, so please keep the original property documents ready. Do you have any quick question?
+user: No.
+agent: Thank
+user: That's it.
+user: Thank you.
+agent: You're welcome, Bhoomija.
+user: Yeah.
+agent: Thank you for your time, and
+agent: have a good day.
